@@ -1,0 +1,2 @@
+texto = "Prueba"
+print(texto)
